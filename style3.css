@@ -1,0 +1,14 @@
+.a { color: goldenrod;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+}
+.b { color: firebrick;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body { background-color: dodgerblue;}
+
+li { color: darkred;}
+
+body p a { color: gainsboro;}
